@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1675807917 source:d:\aed2\trabalho final aed2\trabalhofinal\estruturasimplement.cpp
+	<iostream>
+	"Estruturas.h"
+
+1675807325 d:\aed2\trabalho final aed2\trabalhofinal\estruturas.h
+
+1675797800 source:d:\aed2\trabalho final aed2\trabalhofinal\main.cpp
+	<iostream>
+	<cctype>
+	<clocale>
+	"Estruturas.h"
+	"Especificas.h"
+
+1675807295 d:\aed2\trabalho final aed2\trabalhofinal\especificas.h
+
+1675807846 source:d:\aed2\trabalho final aed2\trabalhofinal\especificasimplement.cpp
+	<iostream>
+	"Estruturas.h"
+	"Especificas.h"
+
